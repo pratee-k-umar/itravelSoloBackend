@@ -33,4 +33,7 @@ build/
 .vscode/
 
 ### Properties ###
+.properties
+
+### Spring Boot ###
 src/main/resources/application.properties
